@@ -2,7 +2,7 @@
 
 A slow React product list (10,000 items, search, live clock) measured, diagnosed and fixed. Both versions are live, with a metrics panel powered by the React Profiler API so you can feel the difference yourself.
 
-**Live demo:** https://YOUR-LINK.vercel.app · [Slow version](https://YOUR-LINK.vercel.app/before) · [Fixed version](https://YOUR-LINK.vercel.app/after)
+**Live demo:** https://chennareddy-perf.vercel.app · [Slow version](https://chennareddy-perf.vercel.app/before) · [Fixed version](https://chennareddy-perf.vercel.app/after)
 
 ![Case study](docs/case-study.png)
 
