@@ -19,6 +19,10 @@ A slow React product list (10,000 items, search, live clock) measured, diagnosed
 
 Measured in Chrome on the production build. Numbers vary by device; the live panel on each page shows yours.
 
+| Slow version (before) | Fixed version (after) |
+| --- | --- |
+| ![Slow version with red live metrics](docs/before.png) | ![Fixed version with green live metrics](docs/after.png) |
+
 ## What was wrong, and the fix
 
 | # | Problem | Fix |
